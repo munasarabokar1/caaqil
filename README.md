@@ -1,1 +1,0 @@
-# somtel-api-v2
